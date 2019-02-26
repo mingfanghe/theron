@@ -1,0 +1,4 @@
+﻿  FileReader.cpp
+FileReader.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+  mytestFileReader.vcxproj -> E:\NoahGameFrame\Theron-6.00.02\\Bin\mytestFileReader.exe
