@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommand>E:\NoahGameFrame\Theron-6.00.02\\Bin\mytestFileReader.exe</LocalDebuggerCommand>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>E:\NoahGameFrame\Theron-6.00.02\Bin\testFile\test1.txt E:\NoahGameFrame\Theron-6.00.02\Bin\testFile\test2.txt E:\NoahGameFrame\Theron-6.00.02\Bin\testFile\test3.txt</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>

@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mytest", "mytest\mytest.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mytestFileReader", "mytestFileReader\mytestFileReader.vcxproj", "{D901F67D-38A0-4904-B734-CB79FC0B627D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fileReader2", "fileReader2\fileReader2.vcxproj", "{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -175,6 +177,14 @@ Global
 		{D901F67D-38A0-4904-B734-CB79FC0B627D}.Release|Win32.Build.0 = Release|Win32
 		{D901F67D-38A0-4904-B734-CB79FC0B627D}.Release|x64.ActiveCfg = Release|x64
 		{D901F67D-38A0-4904-B734-CB79FC0B627D}.Release|x64.Build.0 = Release|x64
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Debug|Win32.Build.0 = Debug|Win32
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Debug|x64.ActiveCfg = Debug|x64
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Debug|x64.Build.0 = Debug|x64
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Release|Win32.ActiveCfg = Release|Win32
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Release|Win32.Build.0 = Release|Win32
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Release|x64.ActiveCfg = Release|x64
+		{26F7D6B7-19EE-4FE4-8599-ADE9AC317EB5}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
